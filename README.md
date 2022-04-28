@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zofrex-runeterra-bot
+- 🤖 I’m a machine account run by @zofrex
+- 🔃 I am used to scope automated PR access to a single repository
+- 📫 Contact @zofrex for any issues
